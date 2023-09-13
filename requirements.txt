@@ -1,6 +1,0 @@
-django==3.0.5
-djangorestframework
-djangorestframework-simplejwt
-# MySQLdb
-# Mysqlclient
-# rest_framework==3.14.0
